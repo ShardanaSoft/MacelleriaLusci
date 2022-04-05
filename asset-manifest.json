@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/Macelleria/static/css/main.e6c13ad2.css",
-    "main.js": "/Macelleria/static/js/main.08d42932.js",
-    "static/js/787.c0884e15.chunk.js": "/Macelleria/static/js/787.c0884e15.chunk.js",
-    "static/media/pasta_fresca.png": "/Macelleria/static/media/pasta_fresca.6bca4a1ad7e171837a7b.png",
-    "static/media/ovino.svg": "/Macelleria/static/media/ovino.6dc0db6ceaa8ce30d9e3f4b17ee9809e.svg",
-    "static/media/pasta_secca.svg": "/Macelleria/static/media/pasta_secca.f8c59450b1ec11e531ca06be4702164b.svg",
-    "static/media/pollame.svg": "/Macelleria/static/media/pollame.cfb58a668a5d99f80608d6ce1fa26cad.svg",
-    "static/media/bovino.svg": "/Macelleria/static/media/bovino.dcec168e9c265e5d2b156c9114f4d2a9.svg",
-    "static/media/suino.svg": "/Macelleria/static/media/suino.18b002d82da14305a2628dc31f6e05b5.svg",
-    "static/media/jar.svg": "/Macelleria/static/media/jar.c604267699ab077f6d2f0b6890f65375.svg",
-    "static/media/cheese.svg": "/Macelleria/static/media/cheese.03569ba49d6e0132470f9b64a139d5f5.svg",
-    "static/media/equino.svg": "/Macelleria/static/media/equino.b396668cde8aedda47a4a5addb8d2983.svg",
-    "index.html": "/Macelleria/index.html",
-    "main.e6c13ad2.css.map": "/Macelleria/static/css/main.e6c13ad2.css.map",
-    "main.08d42932.js.map": "/Macelleria/static/js/main.08d42932.js.map",
-    "787.c0884e15.chunk.js.map": "/Macelleria/static/js/787.c0884e15.chunk.js.map"
+    "main.css": "/MacelleriaLusci/static/css/main.e6c13ad2.css",
+    "main.js": "/MacelleriaLusci/static/js/main.658b141c.js",
+    "static/js/787.c0884e15.chunk.js": "/MacelleriaLusci/static/js/787.c0884e15.chunk.js",
+    "static/media/pasta_fresca.png": "/MacelleriaLusci/static/media/pasta_fresca.6bca4a1ad7e171837a7b.png",
+    "static/media/ovino.svg": "/MacelleriaLusci/static/media/ovino.6dc0db6ceaa8ce30d9e3f4b17ee9809e.svg",
+    "static/media/pasta_secca.svg": "/MacelleriaLusci/static/media/pasta_secca.f8c59450b1ec11e531ca06be4702164b.svg",
+    "static/media/pollame.svg": "/MacelleriaLusci/static/media/pollame.cfb58a668a5d99f80608d6ce1fa26cad.svg",
+    "static/media/bovino.svg": "/MacelleriaLusci/static/media/bovino.dcec168e9c265e5d2b156c9114f4d2a9.svg",
+    "static/media/suino.svg": "/MacelleriaLusci/static/media/suino.18b002d82da14305a2628dc31f6e05b5.svg",
+    "static/media/jar.svg": "/MacelleriaLusci/static/media/jar.c604267699ab077f6d2f0b6890f65375.svg",
+    "static/media/cheese.svg": "/MacelleriaLusci/static/media/cheese.03569ba49d6e0132470f9b64a139d5f5.svg",
+    "static/media/equino.svg": "/MacelleriaLusci/static/media/equino.b396668cde8aedda47a4a5addb8d2983.svg",
+    "index.html": "/MacelleriaLusci/index.html",
+    "main.e6c13ad2.css.map": "/MacelleriaLusci/static/css/main.e6c13ad2.css.map",
+    "main.658b141c.js.map": "/MacelleriaLusci/static/js/main.658b141c.js.map",
+    "787.c0884e15.chunk.js.map": "/MacelleriaLusci/static/js/787.c0884e15.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.08d42932.js"
+    "static/js/main.658b141c.js"
   ]
 }
