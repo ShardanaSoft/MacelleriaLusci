@@ -1,0 +1,16 @@
+{
+  "short_name": "Macelleria Lusci",
+  "name": "Macelleria Lusci Carni di qualità",
+  "description":"Questa macelleria vende carne super",
+  "icons": [
+    {
+      "src": "app-icon144x144.png", 
+      "sizes": "144x144",
+      "type": "image/png"
+    }
+  ], 
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
