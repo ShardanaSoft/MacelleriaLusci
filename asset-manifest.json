@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/MacelleriaLusci/static/css/main.e6c13ad2.css",
-    "main.js": "/MacelleriaLusci/static/js/main.1a813b3a.js",
-    "static/js/787.c0884e15.chunk.js": "/MacelleriaLusci/static/js/787.c0884e15.chunk.js",
-    "static/media/logo.jpg": "/MacelleriaLusci/static/media/logo.f3c4a852e0a6c08b79b0.jpg",
-    "static/media/pasta_fresca.png": "/MacelleriaLusci/static/media/pasta_fresca.6bca4a1ad7e171837a7b.png",
-    "static/media/ovino.svg": "/MacelleriaLusci/static/media/ovino.6dc0db6ceaa8ce30d9e3f4b17ee9809e.svg",
-    "static/media/pasta_secca.svg": "/MacelleriaLusci/static/media/pasta_secca.f8c59450b1ec11e531ca06be4702164b.svg",
-    "static/media/pollame.svg": "/MacelleriaLusci/static/media/pollame.cfb58a668a5d99f80608d6ce1fa26cad.svg",
-    "static/media/bovino.svg": "/MacelleriaLusci/static/media/bovino.dcec168e9c265e5d2b156c9114f4d2a9.svg",
-    "static/media/suino.svg": "/MacelleriaLusci/static/media/suino.18b002d82da14305a2628dc31f6e05b5.svg",
-    "static/media/jar.svg": "/MacelleriaLusci/static/media/jar.c604267699ab077f6d2f0b6890f65375.svg",
-    "static/media/cheese.svg": "/MacelleriaLusci/static/media/cheese.03569ba49d6e0132470f9b64a139d5f5.svg",
-    "static/media/equino.svg": "/MacelleriaLusci/static/media/equino.b396668cde8aedda47a4a5addb8d2983.svg",
-    "index.html": "/MacelleriaLusci/index.html",
-    "main.e6c13ad2.css.map": "/MacelleriaLusci/static/css/main.e6c13ad2.css.map",
-    "main.1a813b3a.js.map": "/MacelleriaLusci/static/js/main.1a813b3a.js.map",
-    "787.c0884e15.chunk.js.map": "/MacelleriaLusci/static/js/787.c0884e15.chunk.js.map"
+    "main.css": "/static/css/main.e6c13ad2.css",
+    "main.js": "/static/js/main.28e72790.js",
+    "static/js/787.c0884e15.chunk.js": "/static/js/787.c0884e15.chunk.js",
+    "static/media/logo.jpg": "/static/media/logo.f3c4a852e0a6c08b79b0.jpg",
+    "static/media/pasta_fresca.png": "/static/media/pasta_fresca.6bca4a1ad7e171837a7b.png",
+    "static/media/ovino.svg": "/static/media/ovino.6dc0db6ceaa8ce30d9e3f4b17ee9809e.svg",
+    "static/media/pasta_secca.svg": "/static/media/pasta_secca.f8c59450b1ec11e531ca06be4702164b.svg",
+    "static/media/pollame.svg": "/static/media/pollame.cfb58a668a5d99f80608d6ce1fa26cad.svg",
+    "static/media/bovino.svg": "/static/media/bovino.dcec168e9c265e5d2b156c9114f4d2a9.svg",
+    "static/media/suino.svg": "/static/media/suino.18b002d82da14305a2628dc31f6e05b5.svg",
+    "static/media/jar.svg": "/static/media/jar.c604267699ab077f6d2f0b6890f65375.svg",
+    "static/media/cheese.svg": "/static/media/cheese.03569ba49d6e0132470f9b64a139d5f5.svg",
+    "static/media/equino.svg": "/static/media/equino.b396668cde8aedda47a4a5addb8d2983.svg",
+    "index.html": "/index.html",
+    "main.e6c13ad2.css.map": "/static/css/main.e6c13ad2.css.map",
+    "main.28e72790.js.map": "/static/js/main.28e72790.js.map",
+    "787.c0884e15.chunk.js.map": "/static/js/787.c0884e15.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.1a813b3a.js"
+    "static/js/main.28e72790.js"
   ]
 }
