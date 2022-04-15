@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/MacelleriaLusci/static/css/main.e6c13ad2.css",
-    "main.js": "/MacelleriaLusci/static/js/main.ec738d9d.js",
+    "main.js": "/MacelleriaLusci/static/js/main.e8439bfc.js",
     "static/js/787.c0884e15.chunk.js": "/MacelleriaLusci/static/js/787.c0884e15.chunk.js",
     "static/media/logo.jpg": "/MacelleriaLusci/static/media/logo.f3c4a852e0a6c08b79b0.jpg",
     "static/media/pasta_fresca.png": "/MacelleriaLusci/static/media/pasta_fresca.6bca4a1ad7e171837a7b.png",
@@ -15,11 +15,11 @@
     "static/media/equino.svg": "/MacelleriaLusci/static/media/equino.b396668cde8aedda47a4a5addb8d2983.svg",
     "index.html": "/MacelleriaLusci/index.html",
     "main.e6c13ad2.css.map": "/MacelleriaLusci/static/css/main.e6c13ad2.css.map",
-    "main.ec738d9d.js.map": "/MacelleriaLusci/static/js/main.ec738d9d.js.map",
+    "main.e8439bfc.js.map": "/MacelleriaLusci/static/js/main.e8439bfc.js.map",
     "787.c0884e15.chunk.js.map": "/MacelleriaLusci/static/js/787.c0884e15.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.ec738d9d.js"
+    "static/js/main.e8439bfc.js"
   ]
 }
